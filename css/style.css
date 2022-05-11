@@ -1,0 +1,16 @@
+*{
+    text-align: center;
+    font-family: -apple-system, Roboto, sans-serif;
+}
+
+body{
+    background-color: rgb(190, 126, 105);
+}
+
+h1{
+    color: white;
+    text-shadow: -2px -2px 0 rgb(130, 82, 52);
+}
+h1 span{
+    display: block;
+}
